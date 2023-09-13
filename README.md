@@ -30,11 +30,11 @@
 
 | ACTIVIDAD    | CONFIRMACION   |
 |------------- | -------------  |
-| 📍  semana 1  |             |
-| 📍  semana 2  |             |
-| 📍  semana 3	 |             |
-| 📍  semana 4	 |             |
-| 📍  semana 5  |             |
+| 📍  semana 1  |    ✔️         |
+| 📍  semana 2  |      ✔️       |
+| 📍  semana 3	 |        ✔️     |
+| 📍  semana 4	 |       ✔️      |
+| 📍  semana 5  |  ✔️           |
 | 📍  semana 6  |             |
 | 📍  semana 7  |             |
 | 📍  semana 8  |             |
