@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario {
+    width: 400px;
+    background: #406d97;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.formulario p{
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.formulario a {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+
+.formulario a:hover {
+    color: #f0f0f0;
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+aside#der h1 {
+    height: 100PX;
+    line-height: 50px;
+    text-align: center;
+    background: #3a668f;
+    color: white;
+    margin: 0;
+}
+
+aside#der input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#chat {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background: rgb(144, 163, 204);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
