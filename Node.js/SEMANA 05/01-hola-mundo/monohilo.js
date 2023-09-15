@@ -1,14 +1,15 @@
-console.log('Hola a toda la cohorte 2022')
+
+console.log("Hola a toda la cohorte 2022")
 
 var i = 0;
-
-setInterval(function() {  //recibe 2 argumentos, funcion para ejecutar x tiempo
-    console.log(i)
+setInterval(function(){
+    console.log(i);
     i++;
+   // if(i === 5){
+   //     console.log("Forzamos un error");
+   //     var a = 3 + z;
+   // }
+},1000);
+console.log("Segunda instrucción")
 
-    //if(i === 5){
-    //    console.log('forzamos un error')
-    //    var a = 3 + z;
-    //}
-},1000); //1seg
-console.log('Segunda instrucción');
+
