@@ -30,12 +30,12 @@
 
 | ACTIVIDAD    | CONFIRMACION   |
 |------------- | -------------  |
-| 📍  semana 1  |    ✔️         |
-| 📍  semana 2  |      ✔️       |
-| 📍  semana 3	 |        ✔️     |
-| 📍  semana 4	 |       ✔️      |
-| 📍  semana 5  |  ✔️           |
-| 📍  semana 6  |    ✍️         |
+| 📍  semana 1  |    ✔️    (semana completa)|
+| 📍  semana 2  |      ✔️(semana completa)       |
+| 📍  semana 3	 |        ✔️(semana completa)     |
+| 📍  semana 4	 |       ✔️(semana completa)      |
+| 📍  semana 5  |  ✔️(semana completa)    |
+| 📍  semana 6  |    ✍️(en proceso)     |
 | 📍  semana 7  |             |
 | 📍  semana 8  |             |
 | 📍  semana 9  |             |
