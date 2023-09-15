@@ -1,6 +1,5 @@
-//Funcion de flecha
-const saludar = (nombre) =>{
-    return `Saludos de ${nombre}`;
-}// esto es igual a: 'Saludos' + nombre;
-
-console.log(saludar('Juani'));
+const saludar = (nombre) => { //funcion de flecha
+    return `Saludos de ${nombre}`; //alt + 96 codigo ascii backticks 
+}
+//esto es igual a: ´Saludos´ + nombre;
+console.log(saludar("Ariel"));
