@@ -35,7 +35,7 @@
 | 📍  semana 3	 |        ✔️     |
 | 📍  semana 4	 |       ✔️      |
 | 📍  semana 5  |  ✔️           |
-| 📍  semana 6  |             |
+| 📍  semana 6  |    ✍️         |
 | 📍  semana 7  |             |
 | 📍  semana 8  |             |
 | 📍  semana 9  |             |
