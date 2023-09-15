@@ -18,13 +18,13 @@
 | 📍  semana 3	 |JUAN SORATO    |
 | 📍  semana 4	 |GUSTAVO CESARETTI|
 | 📍  semana 5	 |JAVIER BREGA     |
-| 📍  semana 6  | JUAN SORATO |
-| 📍  semana 7  |     |
-| 📍  semana 8  |   |
-| 📍  semana 9  |   |
-| 📍  semana 10  |   |
-| 📍  semana 11 ||
-| 📍  semana 12  |   |
+| 📍  semana 6  |JUAN SORATO |
+| 📍  semana 7  |GUSTAVO CESARETTI    |
+| 📍  semana 8  |JAVIER BREGA   |
+| 📍  semana 9  |JUAN SORATO   |
+| 📍  semana 10  |GUSTAVO CESARETTI   |
+| 📍  semana 11 ||JAVIER BREGA
+| 📍  semana 12  |JUAN SORATO   |
 
 📝Registro.
 
