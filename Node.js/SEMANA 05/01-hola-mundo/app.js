@@ -1,16 +1,7 @@
-/////////////////////////////////
-//  let nombre = 'Juan';
-//  console.log(nombre);
+const nombre = "Ariel";
+console.log (nombre);
 
-
-//  nombre = 'Martin';
-//  console.log(nombre);
-//////////////////////////////////
-
-const nombre = 'Juan Ignacio';
-console.log(nombre);
-
-const nombre2 = "Monica";
+const nombre2 ="Juan";
 console.log(nombre2);
 
-console.log('Hola Mundo desde Node');
+console.log("Hola Mundo desde Node")
