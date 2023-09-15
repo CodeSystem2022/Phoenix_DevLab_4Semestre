@@ -1,4 +1,4 @@
-# Phoenix_DevLab_4Semestre
+# 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
 [![Blue-Colorful-Phoenix-Digital-Studio-Logo-1.png](https://i.postimg.cc/vBVYqjHD/Blue-Colorful-Phoenix-Digital-Studio-Logo-1.png)](https://postimg.cc/PpdnNSDk)
 
  Repositorio general                                                                                                                                                     
@@ -18,24 +18,24 @@
 | 📍  semana 3	 |JUAN SORATO    |
 | 📍  semana 4	 |GUSTAVO CESARETTI|
 | 📍  semana 5	 |JAVIER BREGA     |
-| 📍  semana 6  | JUAN SORATO |
-| 📍  semana 7  |     |
-| 📍  semana 8  |   |
-| 📍  semana 9  |   |
-| 📍  semana 10  |   |
-| 📍  semana 11 ||
-| 📍  semana 12  |   |
+| 📍  semana 6  |JUAN SORATO |
+| 📍  semana 7  |GUSTAVO CESARETTI    |
+| 📍  semana 8  |JAVIER BREGA   |
+| 📍  semana 9  |JUAN SORATO   |
+| 📍  semana 10  |GUSTAVO CESARETTI   |
+| 📍  semana 11 |JAVIER BREGA|
+| 📍  semana 12  |JUAN SORATO   |
 
 📝Registro.
 
 | ACTIVIDAD    | CONFIRMACION   |
 |------------- | -------------  |
-| 📍  semana 1  |    ✔️         |
-| 📍  semana 2  |      ✔️       |
-| 📍  semana 3	 |        ✔️     |
-| 📍  semana 4	 |       ✔️      |
-| 📍  semana 5  |  ✔️           |
-| 📍  semana 6  |             |
+| 📍  semana 1  |    ✔️    (semana completa)|
+| 📍  semana 2  |      ✔️(semana completa)       |
+| 📍  semana 3	 |        ✔️(semana completa)     |
+| 📍  semana 4	 |       ✔️(semana completa)      |
+| 📍  semana 5  |  ✔️(semana completa)    |
+| 📍  semana 6  |    ✍️(en proceso)     |
 | 📍  semana 7  |             |
 | 📍  semana 8  |             |
 | 📍  semana 9  |             |
