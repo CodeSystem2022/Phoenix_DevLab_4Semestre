@@ -23,7 +23,7 @@
 | 📍  semana 8  |JAVIER BREGA   |
 | 📍  semana 9  |JUAN SORATO   |
 | 📍  semana 10  |GUSTAVO CESARETTI   |
-| 📍  semana 11 ||JAVIER BREGA
+| 📍  semana 11 ||JAVIER BREGA|
 | 📍  semana 12  |JUAN SORATO   |
 
 📝Registro.
