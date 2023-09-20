@@ -1,5 +1,5 @@
 # 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
-[![Blue-Colorful-Phoenix-Digital-Studio-Logo-1.png](https://i.postimg.cc/vBVYqjHD/Blue-Colorful-Phoenix-Digital-Studio-Logo-1.png)](https://postimg.cc/PpdnNSDk)
+<img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="40" height="40" />
 
  Repositorio general                                                                                                                                                     
 <h3 align="left">Languages:</h3>
