@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86b9aaa-3e39-478e-9149-0998e129fca1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SEMANA 4/mi_clase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/capa_datos_log" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/capa_datos_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/conexion.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/conexion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/usuario_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/usuario_dao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 4/doc_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEMANA 4/doc_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEMANA 4/mi_clase" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CesarG/Documents/GitHub/DarkCode-cuarto-semestre/PYTHON&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/CesarG/Documents/GitHub/DarkCode-cuarto-semestre/PYTHON"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CesarG\Documents\GitHub\Phoenix_DevLab_4Semestre\PYTHON\SEMANA 4" />
       <recent name="C:\Users\CesarG\Documents\GitHub\DarkCode-cuarto-semestre\PYTHON\SEMANA 01\capa_datos_persona" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.menu_app_usuario">
+  <component name="RunManager" selected="Python.doc_str">
     <configuration name="conexion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +83,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEMANA 01/capa_datos_usuario/cursor_del_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="doc_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEMANA 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEMANA 4/doc_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,34 +154,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="usuario_dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEMANA 01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\CesarG\Documents\GitHub\DarkCode-cuarto-semestre\PYTHON\SEMANA 01\capa_datos_persona\usuario_dao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.doc_str" />
         <item itemvalue="Python.menu_app_usuario" />
         <item itemvalue="Python.usuario_dao (1)" />
         <item itemvalue="Python.cursor_del_pool" />
         <item itemvalue="Python.conexion (1)" />
-        <item itemvalue="Python.usuario_dao" />
       </list>
     </recent_temporary>
   </component>
