@@ -18,5 +18,5 @@ class MiClase:
         --> Detectó los parámetros automaticamente
         :param param1: Este es el parámetro número 1
         :param param2: Este es el parámetro número 2
-        :return: Este es el valor de retorno
+        :return: Este es el valor de retorno.
         '''
