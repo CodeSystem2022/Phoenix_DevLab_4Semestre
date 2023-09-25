@@ -52,7 +52,7 @@
 |SEMANA 04      | Clase N°3 Sistemas num y str | Clase N°3 E-COMMERCE BASICO P3 | Clase N°4 Teoria de Node       | Clase N°4 App sist estu. Spring boot p3 |
 |SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers  | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
 |SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G.   | Clase N°6 Variavles de entorno | Clase N°5 Proyecto en JS Daniel Guerrero |
-|SEMANA 07      |
+|SEMANA 07      |Clase N°6 Profundizando en str|
 
 👨‍💻 Miembros del equipo    
                         
