@@ -35,7 +35,7 @@
 | 📍  semana 3	 |        ✔️(semana completa)     |
 | 📍  semana 4	 |       ✔️(semana completa)      |
 | 📍  semana 5  |  ✔️(semana completa)    |
-| 📍  semana 6  |    ✍️(en proceso)     |
+| 📍  semana 6  |    ✔️(semana completa)     |
 | 📍  semana 7  |             |
 | 📍  semana 8  |             |
 | 📍  semana 9  |             |
