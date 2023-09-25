@@ -28,20 +28,20 @@
 
 📝Registro.
 
-| ACTIVIDAD    | CONFIRMACION   |
-|------------- | -------------  |
-| 📍  semana 1  |    ✔️    (semana completa)|
-| 📍  semana 2  |      ✔️(semana completa)       |
-| 📍  semana 3	 |        ✔️(semana completa)     |
-| 📍  semana 4	 |       ✔️(semana completa)      |
-| 📍  semana 5  |  ✔️(semana completa)    |
-| 📍  semana 6  |    ✔️(semana completa)     |
-| 📍  semana 7  |     ✍️    (En producción)|
-| 📍  semana 8  |             |
-| 📍  semana 9  |             |
-| 📍  semana 10 |             |
-| 📍  semana 11 |             |
-| 📍  semana 12 |             |
+| ACTIVIDAD    | CONFIRMACION           |      PYTHON   |  JAVA                        |  NODE                        | JAVASCRIPT|    
+|------------- | -----------------------|---------------|------------------------------|------------------------------|-----------|
+| 📍  semana 1  | ✔️(semana completa)   |  Clase N°1    |  Clase1 Sist Estudiante      |  Clase N°1 instalacion node  |Clase N°1 E-COMMERCE|
+| 📍  semana 2  | ✔️(semana completa)   |  
+| 📍  semana 3	 |  ✔️(semana completa)  |
+| 📍  semana 4	 |  ✔️(semana completa)  |
+| 📍  semana 5  |  ✔️(semana completa)  |
+| 📍  semana 6  |  ✔️(semana completa)  |
+| 📍  semana 7  |  ✍️    (En producción)|
+| 📍  semana 8  |                       |
+| 📍  semana 9  |                       |
+| 📍  semana 10 |                       |
+| 📍  semana 11 |                       |
+| 📍  semana 12 |                       |
 
 👨‍💻 Miembros del equipo    
                         
