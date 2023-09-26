@@ -45,5 +45,5 @@
 
 ⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖                | linkedin| 
 
-⭐ 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤         |<a href="https://www.linkedin.com/in/juani-sorato-1a394b268/">LinkedIn de Juani Sorato</a>|   
+⭐ 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤         | <a href="https://www.linkedin.com/in/juani-sorato-1a394b268/">LinkedIn de Juani Sorato</a> |   
      
