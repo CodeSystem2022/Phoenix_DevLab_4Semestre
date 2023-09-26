@@ -9,24 +9,9 @@
 
 ▶ la division semanal está subdividida en las carpetas correspondientes
 
-📆 Organizacion semanal 
 
-| SEMANA       | SCRUM MASTER     |
-|------------- | -------------    |
-| 📍  semana 1  |GUSTAVO CESARETTI|
-| 📍  semana 2  |JAVIER BREGA    |
-| 📍  semana 3	 |JUAN SORATO    |
-| 📍  semana 4	 |GUSTAVO CESARETTI|
-| 📍  semana 5	 |JAVIER BREGA     |
-| 📍  semana 6  |JUAN SORATO |
-| 📍  semana 7  |GUSTAVO CESARETTI    |
-| 📍  semana 8  |JAVIER BREGA   |
-| 📍  semana 9  |JUAN SORATO   |
-| 📍  semana 10  |GUSTAVO CESARETTI   |
-| 📍  semana 11 |JAVIER BREGA|
-| 📍  semana 12  |JUAN SORATO   |
 
-📝Registro.
+📆 Organizacion semanal y 📝Registro.
 
 | ACTIVIDAD    | CONFIRMACION           |   SCRUM MASTER  |
 |------------- | -----------------------|-----------------|
