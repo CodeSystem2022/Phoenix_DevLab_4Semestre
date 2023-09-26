@@ -40,8 +40,9 @@
 |SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
 
 👨‍💻 Miembros del equipo    
-                        
-⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞             
+
+                                   | linkedin| 
+⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞            --> | | 
 
 ⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖         
 
