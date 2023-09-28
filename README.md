@@ -46,7 +46,7 @@
                                  
 ⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞           --> linkedin|  
 
-⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖               --> linkedin| 
+⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖               --> <a href="https://www.linkedin.com/in/javier-brega-438390213/">Linkedin de Javier Brega</a>  
 
 ⭐ 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤        -->   <a href="https://www.linkedin.com/in/juani-sorato-1a394b268/">LinkedIn de Juani Sorato</a>  
      
