@@ -41,8 +41,7 @@
 |SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers    Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
 |SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°5 Proyecto en JS Daniel Guerrero |
 |SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
-
-<a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/wiki"><h1 align="center">WIKI PHOENIX:book:</h1></a>
+<h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
 👨‍💻 Miembros del equipo    
                                  
