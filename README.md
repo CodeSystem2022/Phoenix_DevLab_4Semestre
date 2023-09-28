@@ -42,6 +42,8 @@
 |SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°5 Proyecto en JS Daniel Guerrero |
 |SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
 
+<a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/wiki"><h1 align="center">WIKI PHOENIX:book:</h1></a>
+
 👨‍💻 Miembros del equipo    
                                  
 ⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞           --> linkedin|  
