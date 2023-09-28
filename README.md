@@ -35,9 +35,9 @@
 |SEMANA 02      | Feriado (sin trabajo         | Feriado (sin trabajo)           | Clase N°2 Hola Mundo en node   | Clase N°2 App sist estu. Spring boot p1|
 |SEMANA 03      | Clase N°2 Sistemas numericos | Clase N°2 E-COMMERCE BASICO P2  | Clase N°3 Pruebas en node      | Clase N°3 App sist estu. Spring boot p2|
 |SEMANA 04      | Clase N°3 Sistemas num y str | Clase N°3 E-COMMERCE BASICO P3  | Clase N°4 Teoria de Node       | Clase N°4 App sist estu. Spring boot p3 |
-|SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers    Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
-|SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°5 Proyecto en JS Daniel Guerrero |
-|SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
+|SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers   | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
+|SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°6 App Tienda libro Spring boot P1 |
+|SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | Clase N°7 desarrollo y produccion| Clase N°7 App Tienda libro Spring boot p2|
 
 👨‍💻 Miembros del equipo    
                                  
