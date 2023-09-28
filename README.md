@@ -1,5 +1,8 @@
 # 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
-<img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
+<p align="center">
+  <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
+</p>
+
 
  Repositorio general                                                                                                                                                     
 <h3 align="left">Languages:</h3>
