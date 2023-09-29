@@ -43,11 +43,29 @@
 |SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
-👨‍💻 Miembros del equipo    
+<h1 align="center">👨‍💻 TEAM</h1>   
+
+
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/986dc4c7-978b-4680-ba17-e1d95c362f0f" width="200" height="200" />
+  <br><strong>⭐ Gustavo Cesaretti</strong><br>LinkedIn<br>https://www.linkedin.com/in/gustavo-cesaretti-80797223a/
+</p>
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/83308616-3022-44c2-8e51-23420fcd8ee1" width="200" height="200" />
+  <br><strong>⭐ Javier Brega</strong><br>LinkedIn<br>https://www.linkedin.com/in/javier-brega-438390213/
+</p>
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/a8dfbeb2-ca49-468a-a164-151eabaa08cb" width="200" height="200" />
+  <br><strong>⭐ Juan Ignacio Sorato</strong><br>LinkedIn<br>https://www.linkedin.com/in/juani-sorato-1a394b268/
+</p>
+
                                  
-⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞           --> linkedin|  
+  
 
-⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖               --> <a href="https://www.linkedin.com/in/javier-brega-438390213/">Linkedin de Javier Brega</a>  
 
-⭐ 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤        -->   <a href="https://www.linkedin.com/in/juani-sorato-1a394b268/">LinkedIn de Juani Sorato</a>  
+
+ 
      
