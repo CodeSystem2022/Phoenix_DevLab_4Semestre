@@ -62,4 +62,4 @@
   <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/a8dfbeb2-ca49-468a-a164-151eabaa08cb" width="200" height="200" />
   <br><strong>⭐ Juan Ignacio Sorato</strong><br>LinkedIn<br>https://www.linkedin.com/in/juani-sorato-1a394b268/
 </p>
->>>>>>> Javier
+
