@@ -24,8 +24,8 @@
 | 📍  semana 4	 |  ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 5  |  ✔️(semana completa)  |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 6  |  ✔️(semana completa)  |[Juan Sorato](https://github.com/Juanisorato21)| 
-| 📍  semana 7  |  ✍️    (En producción)|[Gustavo Cesaretti](https://github.com/Guzce) |
-| 📍  semana 8  |                       |[Javier Brega](https://github.com/javierbrega) |
+| 📍  semana 7  |✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
+| 📍  semana 8  |   ✍️    (En producción) |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 9  |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 10 |                       |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |                       |[Javier Brega](https://github.com/javierbrega) |
