@@ -1,5 +1,8 @@
 # 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
-<img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
+<p align="center">
+  <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
+</p>
+
 
  Repositorio general                                                                                                                                                     
 <h3 align="left">Languages:</h3>
@@ -21,8 +24,8 @@
 | 📍  semana 4	 |  ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 5  |  ✔️(semana completa)  |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 6  |  ✔️(semana completa)  |[Juan Sorato](https://github.com/Juanisorato21)| 
-| 📍  semana 7  |  ✍️    (En producción)|[Gustavo Cesaretti](https://github.com/Guzce) |
-| 📍  semana 8  |                       |[Javier Brega](https://github.com/javierbrega) |
+| 📍  semana 7  |✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
+| 📍  semana 8  |   ✍️    (En producción) |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 9  |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 10 |                       |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |                       |[Javier Brega](https://github.com/javierbrega) |
@@ -35,15 +38,28 @@
 |SEMANA 02      | Feriado (sin trabajo         | Feriado (sin trabajo)           | Clase N°2 Hola Mundo en node   | Clase N°2 App sist estu. Spring boot p1|
 |SEMANA 03      | Clase N°2 Sistemas numericos | Clase N°2 E-COMMERCE BASICO P2  | Clase N°3 Pruebas en node      | Clase N°3 App sist estu. Spring boot p2|
 |SEMANA 04      | Clase N°3 Sistemas num y str | Clase N°3 E-COMMERCE BASICO P3  | Clase N°4 Teoria de Node       | Clase N°4 App sist estu. Spring boot p3 |
-|SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers    Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
-|SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°5 Proyecto en JS Daniel Guerrero |
-|SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | 
+|SEMANA 05      | Prueba Diseño para developers| Prueba Diseño para developers   | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
+|SEMANA 06      |Clase N°5 Profundizando en str| Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°6 App Tienda libro Spring boot P1 |
+|SEMANA 07      |Clase N°6 Profundizando en str| Clase N°5 Proyecto Daniel G. P2 | Clase N°7 desarrollo y produccion| Clase N°7 App Tienda libro Spring boot p2|
 
-👨‍💻 Miembros del equipo    
-                                 
-⭐ 𝙂𝙪𝙨𝙩𝙖𝙫𝙤 𝘾𝙚𝙨𝙖𝙧𝙚𝙩𝙩𝙞           --> linkedin|  
+<h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
-⭐ 𝙅𝙖𝙫𝙞𝙚𝙧 𝘽𝙧𝙚𝙜𝙖               --> linkedin| 
+<h1 align="center">👨‍💻 TEAM</h1>   
 
-⭐ 𝙅𝙪𝙖𝙣 𝙄𝙜𝙣𝙖𝙘𝙞𝙤 𝙎𝙤𝙧𝙖𝙩𝙤        -->   <a href="https://www.linkedin.com/in/juani-sorato-1a394b268/">LinkedIn de Juani Sorato</a>  
-     
+
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/986dc4c7-978b-4680-ba17-e1d95c362f0f" width="200" height="200" />
+  <br><strong>⭐ Gustavo Cesaretti</strong><br>LinkedIn<br>https://www.linkedin.com/in/gustavo-cesaretti-80797223a/
+</p>
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/83308616-3022-44c2-8e51-23420fcd8ee1" width="200" height="200" />
+  <br><strong>⭐ Javier Brega</strong><br>LinkedIn<br>https://www.linkedin.com/in/javier-brega-438390213/
+</p>
+
+<p align="center">
+  <img src="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/80373813/a8dfbeb2-ca49-468a-a164-151eabaa08cb" width="200" height="200" />
+  <br><strong>⭐ Juan Ignacio Sorato</strong><br>LinkedIn<br>https://www.linkedin.com/in/juani-sorato-1a394b268/
+</p>
+
