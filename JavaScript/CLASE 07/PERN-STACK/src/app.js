@@ -3,11 +3,13 @@ import express from "express";
 import morgan from "morgan";
 import tareasRoutes from "./router/tareas.routes.js";
 import authRoutes from "./router/auth.routes.js";
+import cookieParser from "cookie-parser";
 
 const app = express();
 
 //Middlewares
 app.use(morgan("dev"));
+app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
