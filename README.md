@@ -25,8 +25,8 @@
 | 📍  semana 5  |  ✔️(semana completa)  |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 6  |  ✔️(semana completa)  |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 7  |✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
-| 📍  semana 8  |   ✍️    (En producción) |[Javier Brega](https://github.com/javierbrega) |
-| 📍  semana 9  |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
+| 📍  semana 8  |   ✍️ (En producción) |[Javier Brega](https://github.com/javierbrega) |
+| 📍  semana 9  |   ✍️  (En producción) |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 10 |                       |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |                       |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 12 |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
@@ -41,7 +41,8 @@
 |SEMANA 05      | Prueba Diseño para developers  | Prueba Diseño para developers   | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
 |SEMANA 06      |Clase N°5 Profundizando en str  | Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°6 App Tienda libro Spring boot P1 |
 |SEMANA 07      |Clase N°6 Profundizando en str  | Clase N°6 Proyecto Daniel G. P2 | Clase N°7 desarrollo y produccion| Clase N°7 App Tienda libro Spring boot p2|
-|SEMANA 08      |Clase N° 7 Proyecto Virginia. p1| Clase N°7 Proyecto Daniel G. P3 |
+|SEMANA 08      |Clase N° 7 Proyecto Virginia. p1| Clase N°7 Proyecto Daniel G. P3 |Clase N°8 Callbacks              | Clase N° 8 App Tienda libro Spring boot p3|
+|SEMANA 09      |
 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
