@@ -1,14 +1,14 @@
-import pg from 'pg';
-
+// En este archivo vamos a generar la conección a nuestra base de datos.
+import pg from "pg";
 
 export const pool = new pg.Pool({
     port: 5432,
-    host: 'localhost',
-    user: 'postgres',
-    password: 'admin',
+    host: "localhost",
+    user: "postgres",
+    password: "admin",
     database: "PERN",
 });
 
 pool.on("connect", () => {
-    console.log("Conectado a la base de datos");
+    console.log("conectado a la base de datos");
 });
