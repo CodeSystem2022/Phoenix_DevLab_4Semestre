@@ -1,0 +1,1 @@
+En esta carpeta vamos a poder crear acrhivos que contienen funciones que vamos a leer antes de que lleguen a las rutas (del back al front, o visceversa)

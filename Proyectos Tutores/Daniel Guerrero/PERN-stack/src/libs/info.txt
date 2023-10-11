@@ -1,0 +1,2 @@
+Esta carpeta nos permite guardar código que podemos reutilizar en otra parte de nuestra aplicación.
+Simplemente la importamos en donde la necesitamos y ya.
