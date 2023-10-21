@@ -36,13 +36,15 @@ function adios(nombre) {
   return new Promise((resolve, reject) =>{
     setTimeout(function () { 
       console.log("Adios " + nombre); //con coma nodemon tmb interpreta pero es recomendado concatenar con signo +
-      resolve(); 
+      // resolve();
+      reject('Hay un error'); //rechazar
     // Sintaxis Es6
     }, 1000); 
   })
 }
 
 //Llamamos a la función
+//.then y .cath no pueden faltar en las promesas
 console.log('Iniciando el proceso');
 hola('Ariel')
   .then(hablar)
@@ -52,3 +54,10 @@ hola('Ariel')
   .then((nombre)=> {
       console.log('Terminando el proceso');
   })
+  .catch(error => {
+    console.log('Ha habido un error: ');
+    console.log(error);
+  })
+
+  // Cuando una promesa trabaja de manera resuelta es syncrono
+  // En progreso es asyncrono (lo que hemos trabajado)
