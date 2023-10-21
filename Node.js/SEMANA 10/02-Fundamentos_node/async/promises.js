@@ -7,11 +7,21 @@ function hola(nombre) {
   });
 } 
  
-function hablar(miCallbackHablar) { 
-  setTimeout(function () { 
-    console.log("bla bla bla bla"); 
-    miCallbackHablar(); 
-  }, 1000); 
+// function hablar(miCallbackHablar) { 
+//   setTimeout(function () { 
+//     console.log("bla bla bla bla"); 
+//     miCallbackHablar(); 
+//   }, 1000); 
+// } 
+
+//  Aplicando Promise en la función hablar
+function hablar(nombre) { // Usamos sintaxis ES6
+  return new Promise( (resolve, reject)=> {
+    setTimeout(function () { 
+      console.log("bla bla bla bla"); 
+      resolve(nombre); 
+    }, 1000);
+  });
 } 
  
 // function adios(nombre, otroCallback) { 
@@ -21,6 +31,7 @@ function hablar(miCallbackHablar) {
 //   }, 1500); 
 // } 
 
+// Aplicando Promise en la función adios
 function adios(nombre) { 
   return new Promise((resolve, reject) =>{
     setTimeout(function () { 
@@ -34,6 +45,9 @@ function adios(nombre) {
 //Llamamos a la función
 console.log('Iniciando el proceso');
 hola('Ariel')
+  .then(hablar)
+  .then(hablar)
+  .then(hablar)
   .then(adios)
   .then((nombre)=> {
       console.log('Terminando el proceso');
