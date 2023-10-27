@@ -18,11 +18,11 @@ function hola(nombre, miCallback) {
       otroCallback(); 
     }, 1500); 
   } 
-   
+  //Recursividad gestionamos la complejidad de los callback
   function conversacion(nombre, veces, miCallback) { 
     if (veces > 0) { 
       hablar(function () { 
-        conversacion(nombre, --veces, miCallback); 
+        conversacion(nombre, --veces, miCallback);
       }); 
     } else { 
       miCallback(nombre, callback); 
@@ -40,6 +40,8 @@ function hola(nombre, miCallback) {
   });
   
   
+  //El callbackHell no es una buena practica, la recomendación es crear una función recursiva que gestione este problema
+
   ///bloque comentado
   // hola("Carlos", function (nombre) {
   //   hablar(function () {
