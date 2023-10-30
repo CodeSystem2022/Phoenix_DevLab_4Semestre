@@ -30,8 +30,8 @@
 | 📍  semana 10 | ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |   ✍️  (En producción)  |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 12 |✍️  (En producción)  |[Juan Sorato](https://github.com/Juanisorato21)| 
-| 📍  semana 13 | ||
-| 📍  semana 14 | ||
+| 📍  semana 13 | |[Gustavo Cesaretti](https://github.com/Guzce)|
+| 📍  semana 14 | |[Juan Sorato](https://github.com/Juanisorato21)|
 
 📅 Calendario
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
