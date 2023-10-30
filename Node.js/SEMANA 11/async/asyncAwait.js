@@ -7,7 +7,7 @@ async function hola(nombre) {
     })
 }
 
-function hablar(nombre) {
+async function hablar(nombre) {
     return new Promise( (resolve, reject) => { // usamos la sintaxis ES6
         setTimeout(function () {
             console.log('bla bla bla');
@@ -17,7 +17,7 @@ function hablar(nombre) {
 }
 
 //Función asincrona - adios
-function adios(nombre) {
+async function adios(nombre) {
     return new Promise((resolve, reject) => {
         setTimeout(function () {
             console.log('Adiós ' + nombre); //forma correcta de concatenar
@@ -30,7 +30,12 @@ function adios(nombre) {
 // await hola('Juani'); //--> Esto es una mala sintaxis
 
 async function main(){
-    await hola('Juani');
+    let nombre = await hola('Gustavo');
+    await hablar();
+    await hablar();
+    await hablar();
+    await adios(nombre);
 }
+// En async-await lo que sucede por detras es convertir las promesas en procesos que se vean aparentemente como sincronos
 
 main();
