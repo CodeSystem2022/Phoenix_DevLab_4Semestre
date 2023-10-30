@@ -29,7 +29,7 @@
 | 📍  semana 9  | ✔️(semana completa)   |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 10 | ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |   ✍️  (En producción)  |[Javier Brega](https://github.com/javierbrega) |
-| 📍  semana 12 |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
+| 📍  semana 12 |✍️  (En producción)  |[Juan Sorato](https://github.com/Juanisorato21)| 
 
 📅 Calendario
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
