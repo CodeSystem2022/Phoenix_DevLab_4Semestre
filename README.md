@@ -74,6 +74,7 @@
 | 📍  semana 14 | |[Javier Brega](https://github.com/javierbrega)|
 
 <h1> 📅 Calendario </h1>h1>
+
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
 |---------------|----------------------------------|---------------------------------|--------------------------------|-------------------------------------|
 |SEMANA 01      | Clase N°1 Lab con python         | Clase N°1 E-COMMERCE BASICO P1  | Clase N°1 Instalacion node     | Clase N°1 App sist Estudiante p3   |
@@ -88,7 +89,7 @@
 |SEMANA 10      |Feriado Día del Respeto a         | la Diversidad Cultural          | Clase N°10 Resolve reject       |Clase N°10 App Tienda libro Spring boot p5 |
 |SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo p1     |
 |SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react | Clase 12 Modulos -> Global      |Clase N°12 Proyecto Matias Carballo P2|
-|SEMANA 13      |Clase N°11 Entorno Profesionales  | Clase N° 11
+|SEMANA 13      |Clase N°11 Entorno Profesionales  | Clase N° 11                     |                                  |                                          |
 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
