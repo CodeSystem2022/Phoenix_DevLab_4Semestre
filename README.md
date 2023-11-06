@@ -73,7 +73,7 @@
 | 📍  semana 13 | |[Gustavo Cesaretti](https://github.com/Guzce)|
 | 📍  semana 14 | |[Javier Brega](https://github.com/javierbrega)|
 
-<h1> 📅 Calendario </h1>h1>
+<h1> 📅 Calendario </h1>
 
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
 |---------------|----------------------------------|---------------------------------|--------------------------------|-------------------------------------|
