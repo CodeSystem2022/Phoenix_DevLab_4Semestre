@@ -5,34 +5,34 @@
 
                                                                                                                                                    
 <h1 align="left">Lenguajes y Tecnologías utilizadas :</h1>
-<a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+<a href="https://lenguajejs.com/javascript/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JSCRIPT" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="PYTHON" width="100" height="100"/>
         </a>
-         <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NODE.JS" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://lenguajecss.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="100" height="100"/>
         </a>
-         <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="POSTGRES" width="100" height="100"/>
         </a>
-        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+        <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MONGODB" width="100" height="100"/>
         </a>
-        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+        <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png" alt="FIREBASE" width="200" height="100"/>
         </a>
         <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
