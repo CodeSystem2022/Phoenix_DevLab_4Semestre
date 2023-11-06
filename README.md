@@ -66,7 +66,7 @@
 | 📍  semana 13 | |[Gustavo Cesaretti](https://github.com/Guzce)|
 | 📍  semana 14 | |[Javier Brega](https://github.com/javierbrega)|
 
-📅 Calendario
+<h1> 📅 Calendario </h1>h1>
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
 |---------------|----------------------------------|---------------------------------|--------------------------------|-------------------------------------|
 |SEMANA 01      | Clase N°1 Lab con python         | Clase N°1 E-COMMERCE BASICO P1  | Clase N°1 Instalacion node     | Clase N°1 App sist Estudiante p3   |
