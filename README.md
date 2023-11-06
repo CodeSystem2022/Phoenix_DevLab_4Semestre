@@ -3,9 +3,8 @@
   <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
 </p>
 
-
- Repositorio general                                                                                                                                                     
-<h3 align="left">Languages:</h3>
+                                                                                                                                                   
+<h1 align="left">Lenguajes y Tecnologías utilizadas :</h1>
 <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JSCRIPT" width="100" height="100"/>
         </a>
@@ -48,7 +47,7 @@
 
 
 
-📆 Organizacion semanal y 📝Registro.
+<h1> 📆 Organizacion semanal y 📝Registro. </h1> 
 
 | ACTIVIDAD    | CONFIRMACION           |   SCRUM MASTER  |
 |------------- | -----------------------|-----------------|
