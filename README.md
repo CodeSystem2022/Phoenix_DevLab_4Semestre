@@ -1,4 +1,4 @@
-# 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
+![image](https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/101840362/8dd7c1ef-57c7-4cc6-89a4-32be6d46e21a)# 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
 <p align="center">
   <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
 </p>
@@ -38,6 +38,13 @@
         <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" alt="LINUX" width="100" height="100"/>
         </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="DOCKER" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="GITHUB" width="100" height="100"/>
+        </a>
+         
         
         
 
