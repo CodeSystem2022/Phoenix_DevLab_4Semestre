@@ -46,8 +46,9 @@
 |SEMANA 08      |Clase N°7  Proyecto Virginia C. P1| Clase N°7 Proyecto Daniel G. P3 | Clase N°8 Callbacks             | Clase N° 8 App Tienda libro Spring boot p3|
 |SEMANA 09      |Clase N°8  Proyecto Virginia C. P2| Clase N° 8 Proyecto Daniel G. P4| Clase N°9 Callback Hell         |Clase N°9 App Tienda libro Spring boot p4  |
 |SEMANA 10      |Feriado Día del Respeto a         | la Diversidad Cultural          | Clase N°10 Resolve reject       |Clase N°10 App Tienda libro Spring boot p5 |
-|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo        |
-|SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react |
+|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo p1     |
+|SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react | Clase 12 Modulos -> Global      |Clase N°12 Proyecto Matias Carballo P2|
+|SEMANA 13      |
 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
