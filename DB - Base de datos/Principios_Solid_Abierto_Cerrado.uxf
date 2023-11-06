@@ -1,0 +1,39 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>40</x><y>30</y><w>170</w><h>150</h></coordinates><panel_attributes>Pedido
+--
+-Productos
+-envio: Envio
+--
++getTotal()
++getPesoTotal()
++setTipoEnvio(envio)
++getCostoEnvio()
++getFechaEnvio()
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>360</x><y>50</y><w>120</w><h>80</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+Envio
+--
++getCosto(pedido)
++getFecha(pedido)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>60</y><w>180</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>160;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>210</y><w>130</w><h>90</h></coordinates><panel_attributes>Internacional
+--
+...
+--
++getCosto(pedido)
++getFecha(pedido)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>440</x><y>210</y><w>120</w><h>90</h></coordinates><panel_attributes>Nacional
+--
+...
+--
++getCosto(pedido)
++getFecha(pedido)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>120</y><w>90</w><h>110</h></coordinates><panel_attributes>lt=&lt;.
+</panel_attributes><additional_attributes>70;10;70;50;10;50;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>410</x><y>120</y><w>110</w><h>110</h></coordinates><panel_attributes>lt=&lt;.
+</panel_attributes><additional_attributes>10;10;10;50;90;50;90;90</additional_attributes></element><element><id>Relation</id><coordinates><x>140</x><y>130</y><w>30</w><h>140</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>UMLNote</id><coordinates><x>50</x><y>260</y><w>180</w><h>30</h></coordinates><panel_attributes>return envio.getCosto(this)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>160</x><y>360</y><w>250</w><h>110</h></coordinates><panel_attributes>.//Envio internacional gratuito con
+.//numerosos pedidos.
+if (pedido.getTotal() &gt; 100){
+      return 0
+}
+//u$d1.5 por kilo, minimo u$d5.
+return max(5.pedido.getPesoTotal()*1.5)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>210</y><w>60</w><h>170</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;150;10;10;40;10</additional_attributes></element><element><id>UMLNote</id><coordinates><x>480</x><y>360</y><w>170</w><h>40</h></coordinates><panel_attributes>.//Envio nacional gratuito 
+.//con cualquier cantidad.
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>210</y><w>70</w><h>170</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;150;50;10;10;10</additional_attributes></element></diagram>
