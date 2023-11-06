@@ -42,7 +42,7 @@
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="DOCKER" width="100" height="100"/>
         </a>
         <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="GITHUB" width="100" height="100"/>
+            <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GITHUB" width="100" height="100"/>
         </a>
          
         
