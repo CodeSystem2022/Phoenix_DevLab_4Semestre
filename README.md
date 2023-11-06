@@ -1,4 +1,4 @@
-# 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
+![image](https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/101840362/3f5d5fcb-67f1-44b9-9c38-3f7b368b2c5d)![image](https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/assets/101840362/2de7334e-7ad4-4ace-a161-fad69ac6bb61)# 𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝘋𝘌𝘝-𝘓𝘈𝘉  4°to Semestre
 <p align="center">
   <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
 </p>
@@ -7,14 +7,39 @@
  Repositorio general                                                                                                                                                     
 <h3 align="left">Languages:</h3>
 <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="javascript" width="100" height="100"/>
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JSCRIPT" width="100" height="100"/>
         </a>
         <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="python" width="100" height="100"/>
+            <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="PYTHON" width="100" height="100"/>
         </a>
          <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="python" width="100" height="100"/>
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="100" height="100"/>
         </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NODE.JS" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="100" height="100"/>
+        </a>
+         <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="POSTGRES" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MONGODB" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png" alt="FIREBASE" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajejs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" alt="LINUX" width="100" height="100"/>
+        </a>
+        
         
 
 📁 En el repositorio encontrarn las carpetas de cada lenguaje trabajo en el 4°to semestre.
