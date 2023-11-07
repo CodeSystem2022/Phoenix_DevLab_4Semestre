@@ -71,7 +71,6 @@
 | 📍  semana 11 |  ✔️(semana completa) |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 12 |✍️  (En producción)  |[Juan Sorato](https://github.com/Juanisorato21)| 
 | 📍  semana 13 | |[Gustavo Cesaretti](https://github.com/Guzce)|
-| 📍  semana 14 | |[Javier Brega](https://github.com/javierbrega)|
 
 <h1> 📅 Calendario </h1>
 
