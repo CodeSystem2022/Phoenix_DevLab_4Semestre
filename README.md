@@ -3,10 +3,50 @@
   <img src="https://media.giphy.com/media/yoGoJGSioqhkEqeVrE/giphy-downsized-large.gif" width="400" height="400" />
 </p>
 
-
- Repositorio general                                                                                                                                                     
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+                                                                                                                                                   
+<h1 align="left">Lenguajes y Tecnologías utilizadas :</h1>
+<a href="https://lenguajejs.com/javascript/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JSCRIPT" width="100" height="100"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" alt="PYTHON" width="100" height="100"/>
+        </a>
+         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="100" height="100"/>
+        </a>
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NODE.JS" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" width="100" height="100"/>
+        </a>
+        <a href="https://lenguajecss.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" width="100" height="100"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="100" height="100"/>
+        </a>
+         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="POSTGRES" width="100" height="100"/>
+        </a>
+        <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MONGODB" width="100" height="100"/>
+        </a>
+        <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png" alt="FIREBASE" width="200" height="100"/>
+        </a>
+        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" alt="LINUX" width="100" height="100"/>
+        </a>
+        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="DOCKER" width="100" height="100"/>
+        </a>
+        <a href="https://github.com/CodeSystem2022/Phoenix_DevLab_4Semestre/tree/main" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" alt="GITHUB" width="100" height="100"/>
+        </a>
+         
+        
+        
 
 📁 En el repositorio encontrarn las carpetas de cada lenguaje trabajo en el 4°to semestre.
 
@@ -14,7 +54,7 @@
 
 
 
-📆 Organizacion semanal y 📝Registro.
+<h1> 📆 Organizacion semanal y 📝Registro. </h1> 
 
 | ACTIVIDAD    | CONFIRMACION           |   SCRUM MASTER  |
 |------------- | -----------------------|-----------------|
@@ -27,11 +67,13 @@
 | 📍  semana 7  |✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 8  | ✔️(semana completa)   |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 9  | ✔️(semana completa)   |[Juan Sorato](https://github.com/Juanisorato21)| 
-| 📍  semana 10 |   ✍️  (En producción)  |[Gustavo Cesaretti](https://github.com/Guzce) |
-| 📍  semana 11 |   ✍️  (En producción)  |[Javier Brega](https://github.com/javierbrega) |
-| 📍  semana 12 |                       |[Juan Sorato](https://github.com/Juanisorato21)| 
+| 📍  semana 10 | ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
+| 📍  semana 11 |  ✔️(semana completa) |[Javier Brega](https://github.com/javierbrega) |
+| 📍  semana 12 | ✔️(semana completa)|[Juan Sorato](https://github.com/Juanisorato21)| 
+| 📍  semana 13 |✍️  (En producción)  |[Gustavo Cesaretti](https://github.com/Guzce)|
 
-📅 Calendario
+<h1> 📅 Calendario </h1>
+
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
 |---------------|----------------------------------|---------------------------------|--------------------------------|-------------------------------------|
 |SEMANA 01      | Clase N°1 Lab con python         | Clase N°1 E-COMMERCE BASICO P1  | Clase N°1 Instalacion node     | Clase N°1 App sist Estudiante p3   |
@@ -44,7 +86,9 @@
 |SEMANA 08      |Clase N°7  Proyecto Virginia C. P1| Clase N°7 Proyecto Daniel G. P3 | Clase N°8 Callbacks             | Clase N° 8 App Tienda libro Spring boot p3|
 |SEMANA 09      |Clase N°8  Proyecto Virginia C. P2| Clase N° 8 Proyecto Daniel G. P4| Clase N°9 Callback Hell         |Clase N°9 App Tienda libro Spring boot p4  |
 |SEMANA 10      |Feriado Día del Respeto a         | la Diversidad Cultural          | Clase N°10 Resolve reject       |Clase N°10 App Tienda libro Spring boot p5 |
-|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5|
+|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo p1     |
+|SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react | Clase 12 Modulos -> Global      |Clase N°12 Proyecto Matias Carballo P2|
+|SEMANA 13      |Clase N°11 Entorno Profesionales  |Clase N° 11 Proy. firebase-react |                                  |                                          |
 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
