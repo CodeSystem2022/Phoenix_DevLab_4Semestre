@@ -76,19 +76,19 @@
 
 |SEMANA         |🐍 PYTHON  (Laboratorio IV)      |🪐 JAVA SCRIPT (Laboratorio IV) |💻 NODE JS (Metodologia de sist)| ☕ JAVA AVANZADO (Metodologia de sist) |    
 |---------------|----------------------------------|---------------------------------|--------------------------------|-------------------------------------|
-|SEMANA 01      | Clase N°1 Lab con python         | Clase N°1 E-COMMERCE BASICO P1  | Clase N°1 Instalacion node     | Clase N°1 App sist Estudiante p3   |
-|SEMANA 02      | Feriado (sin trabajo             | Feriado (sin trabajo)           | Clase N°2 Hola Mundo en node   | Clase N°2 App sist estu. Spring boot p1|
-|SEMANA 03      | Clase N°2 Sistemas numericos     | Clase N°2 E-COMMERCE BASICO P2  | Clase N°3 Pruebas en node      | Clase N°3 App sist estu. Spring boot p2|
-|SEMANA 04      | Clase N°3 Sistemas num y str     | Clase N°3 E-COMMERCE BASICO P3  | Clase N°4 Teoria de Node       | Clase N°4 App sist estu. Spring boot p3 |
-|SEMANA 05      | Prueba Diseño para developers    | Prueba Diseño para developers   | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot p4 |
+|SEMANA 01      | Clase N°1 Lab con python         | Clase N°1 E-COMMERCE BASICO P1  | Clase N°1 Instalacion node     | Clase N°1 App sist Estudiante P3   |
+|SEMANA 02      | Feriado (sin trabajo             | Feriado (sin trabajo)           | Clase N°2 Hola Mundo en node   | Clase N°2 App sist estu. Spring boot P1|
+|SEMANA 03      | Clase N°2 Sistemas numericos     | Clase N°2 E-COMMERCE BASICO P2  | Clase N°3 Pruebas en node      | Clase N°3 App sist estu. Spring boot P2|
+|SEMANA 04      | Clase N°3 Sistemas num y str     | Clase N°3 E-COMMERCE BASICO P3  | Clase N°4 Teoria de Node       | Clase N°4 App sist estu. Spring boot P3 |
+|SEMANA 05      | Prueba Diseño para developers    | Prueba Diseño para developers   | Clase N°5 Asincronia de Node   | Clase N°5 App sist estu. Spring boot P4 |
 |SEMANA 06      |Clase N°5 Profundizando en str    | Clase N°5 Proyecto Daniel G. P1 | Clase N°6 Variavles de entorno | Clase N°6 App Tienda libro Spring boot P1 |
-|SEMANA 07      |Clase N°6 Profundizando en str    | Clase N°6 Proyecto Daniel G. P2 | Clase N°7 desarrollo y produccion| Clase N°7 App Tienda libro Spring boot p2|
-|SEMANA 08      |Clase N°7  Proyecto Virginia C. P1| Clase N°7 Proyecto Daniel G. P3 | Clase N°8 Callbacks             | Clase N° 8 App Tienda libro Spring boot p3|
-|SEMANA 09      |Clase N°8  Proyecto Virginia C. P2| Clase N° 8 Proyecto Daniel G. P4| Clase N°9 Callback Hell         |Clase N°9 App Tienda libro Spring boot p4  |
-|SEMANA 10      |Feriado Día del Respeto a         | la Diversidad Cultural          | Clase N°10 Resolve reject       |Clase N°10 App Tienda libro Spring boot p5 |
-|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo p1     |
-|SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react | Clase 12 Modulos -> Global      |Clase N°12 Proyecto Matias Carballo P2|
-|SEMANA 13      |Clase N°11 Entorno Profesionales  |Clase N° 11 Proy. firebase-react |                                  |                                          |
+|SEMANA 07      |Clase N°6 Profundizando en str    | Clase N°6 Proyecto Daniel G. P2 | Clase N°7 desarrollo y produccion| Clase N°7 App Tienda libro Spring boot P2|
+|SEMANA 08      |Clase N°7  Proyecto Virginia C. P1| Clase N°7 Proyecto Daniel G. P3 | Clase N°8 Callbacks             | Clase N° 8 App Tienda libro Spring boot P3|
+|SEMANA 09      |Clase N°8  Proyecto Virginia C. P2| Clase N° 8 Proyecto Daniel G. P4| Clase N°9 Callback Hell         |Clase N°9 App Tienda libro Spring boot P4  |
+|SEMANA 10      |Feriado Día del Respeto a         | la Diversidad Cultural          | Clase N°10 Resolve reject       |Clase N°10 App Tienda libro Spring boot P5 |
+|SEMANA 11      |Clase N°9 Entornos profesionales  | Clase N° 9 Proyecto Daniel G. P5| Clase N°11 async await          |Clase N°11 Proyecto Matias Carballo P1     |
+|SEMANA 12      |Clase N°10 Entorno profrsionales  |Clase N° 10 Proy. firebase-react | Clase N°12 Módulos -> Global    |Clase N°12 Proyecto Matias Carballo P2|
+|SEMANA 13      |Clase N°11 Entorno Profesionales  |Clase N° 11 Proy. firebase-react | Clase N° 13 Módulos -> File System | Clase N°13 Proyecto Marias Carballo P3|
 
 <h1 align="center">:point_right:WIKI PHOENIX:point_left::book:</h1>
 
