@@ -70,7 +70,7 @@
 | 📍  semana 10 | ✔️(semana completa)  |[Gustavo Cesaretti](https://github.com/Guzce) |
 | 📍  semana 11 |  ✔️(semana completa) |[Javier Brega](https://github.com/javierbrega) |
 | 📍  semana 12 | ✔️(semana completa)|[Juan Sorato](https://github.com/Juanisorato21)| 
-| 📍  semana 13 |✍️  (En producción)  |[Gustavo Cesaretti](https://github.com/Guzce)|
+| 📍  semana 13 |✔️(semana completa)|[Gustavo Cesaretti](https://github.com/Guzce)|
 
 <h1> 📅 Calendario </h1>
 
